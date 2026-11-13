@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Hidden Viewer
+Comment=Web page window hidden from screen sharing
+Exec=@BINDIR@/hidden-viewer %u
+Icon=web-browser
+Terminal=false
+Categories=Network;WebBrowser;
+StartupWMClass=io.hiddenwindow.Viewer

@@ -1,0 +1,7 @@
+{
+  "uuid": "hide-from-screencast@hiddenwindow",
+  "name": "Hide From Screencast",
+  "description": "Keeps selected windows (by WM_CLASS / app_id) visible on screen but out of screen-sharing streams.",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "version": 1
+}
